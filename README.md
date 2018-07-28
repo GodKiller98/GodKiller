@@ -1,3 +1,3 @@
 # GodKiller
-All men and Women must come.
-Just Kidding cause I know nothing.
+ it contains all my college mini projects.
+ Just some small level applications that are made on java, C++, python and web programming languages.
